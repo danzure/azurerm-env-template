@@ -1,0 +1,2 @@
+# Example terraform.tfvars - do NOT commit real secrets
+admin_password = "P@ssw0rdExample!ChangeMe"
